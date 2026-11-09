@@ -1,0 +1,29 @@
+{
+  "name": "vue2-learning",
+  "version": "1.0.0",
+  "private": true,
+  "description": "用于系统学习 Vue 2 的示例项目",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^3.39.0",
+    "vue": "2.7.16",
+    "vue-router": "^3.6.5",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.8",
+    "@vue/cli-service": "~5.0.8",
+    "vue-template-compiler": "2.7.16"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
